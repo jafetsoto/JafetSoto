@@ -1,9 +1,8 @@
-### Hi there 👋
+# Exploring the Universe of Electrical and Computer Engineering: The Force Awakens 🌌
 
-<!--
-**jafetsoto/JafetSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"**Fear is the path to the dark side. Fear leads to anger, anger leads to hate, hate leads to suffering.**" - Master Yoda
 
-Here are some ideas to get you started:
+Welcome to my profile! Here you'll find a brief description of my studies and interests in the field of electrical and computer engineering, and a glimpse into my latest projects.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
