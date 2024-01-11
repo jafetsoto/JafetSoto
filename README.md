@@ -6,7 +6,7 @@
 
 Welcome to my profile! Here you'll find a brief description of my studies and interests in the field of electrical and computer engineering, and a glimpse into my latest projects.
 
-## Academic Focus and Expertise
+## 📚 Academic Focus and Expertise 📚
 I am currently pursuing studies in Electrical Engineering with a focus on Networks and Computers. My academic journey has involved a deep dive into areas such as:
 - **Digital Computer Architecture**: Understanding the core principles and design methodologies.
 - **VLSI Flow and RTL Design**: Proficiency in these critical aspects of hardware design.
