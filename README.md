@@ -11,4 +11,4 @@ I am currently pursuing studies in Electrical Engineering with a focus on Networ
 - **Digital Computer Architecture**: Understanding the core principles and design methodologies.
 - **VLSI Flow and RTL Design**: Proficiency in these critical aspects of hardware design.
 - **Embedded Systems**: Strong knowledge and practical expertise.
-- **FPGA Technology**: Substantial experience and skills in FPGA utilization.
+- **FPGA Technology**: Substantial experience and skills in FPGA utilization. Familiarity with industry protocols such as AXI and I2C.
