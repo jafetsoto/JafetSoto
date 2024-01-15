@@ -14,3 +14,5 @@ I am currently pursuing studies in Electrical Engineering with a focus on Networ
 - **FPGA Technology**: Substantial experience and skills in FPGA utilization. Familiarity with industry protocols such as AXI and I2C.
 
 ## 🚀 Technical Skills 🚀
+- **Programming Languages**: Python, (System)Verilog, C/C++, MATLAB (Basic proficiency)
+- **Synthesis Tools**: Yosys, Xilinx Vivado
