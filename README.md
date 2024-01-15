@@ -12,3 +12,5 @@ I am currently pursuing studies in Electrical Engineering with a focus on Networ
 - **VLSI Flow and RTL Design**: Proficiency in these critical aspects of hardware design, including synthesis.
 - **Embedded Systems**: Strong knowledge and practical expertise.
 - **FPGA Technology**: Substantial experience and skills in FPGA utilization. Familiarity with industry protocols such as AXI and I2C.
+
+## 🚀 Technical Skills 🚀
